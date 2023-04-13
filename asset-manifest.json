@@ -1,28 +1,28 @@
 {
   "files": {
-    "main.css": "/WebDev/home/static/css/main.31ac5802.css",
-    "main.js": "/WebDev/home/static/js/main.41724873.js",
-    "static/js/787.6b28aaaa.chunk.js": "/WebDev/home/static/js/787.6b28aaaa.chunk.js",
-    "static/media/hex.jpg": "/WebDev/home/static/media/hex.6f606f701f2708569875.jpg",
-    "static/media/cloud.png": "/WebDev/home/static/media/cloud.a330a4a9b4b4bc27d981.png",
-    "static/media/python.logo.png": "/WebDev/home/static/media/python.logo.c0fe41b36c9b8253c2e8.png",
-    "static/media/react-logo.png": "/WebDev/home/static/media/react-logo.3de4f9504f9f62822573.png",
-    "static/media/docker.logo.png": "/WebDev/home/static/media/docker.logo.77d969a9d87d2f0d8dec.png",
-    "static/media/redux-logo.png": "/WebDev/home/static/media/redux-logo.fd4c5e0f1fe42de14537.png",
-    "static/media/black-purple-logo.png": "/WebDev/home/static/media/black-purple-logo.c10d3eb53ac45e3054af.png",
-    "static/media/AWS.logo.png": "/WebDev/home/static/media/AWS.logo.f783c51a3cb7c6c3c966.png",
-    "static/media/node.logo.png": "/WebDev/home/static/media/node.logo.22d4a4fcc45390f4d1c1.png",
-    "static/media/next-logo.png": "/WebDev/home/static/media/next-logo.425e4ca89117613c1952.png",
-    "static/media/avatar.jpg": "/WebDev/home/static/media/avatar.5ecd29abe428ad34f647.jpg",
-    "static/media/calm.jpg": "/WebDev/home/static/media/calm.be245d62bbe56c6b5c70.jpg",
-    "static/media/github.logo.png": "/WebDev/home/static/media/github.logo.9c2ff307f574cef466a1.png",
-    "index.html": "/WebDev/home/index.html",
-    "main.31ac5802.css.map": "/WebDev/home/static/css/main.31ac5802.css.map",
-    "main.41724873.js.map": "/WebDev/home/static/js/main.41724873.js.map",
-    "787.6b28aaaa.chunk.js.map": "/WebDev/home/static/js/787.6b28aaaa.chunk.js.map"
+    "main.css": "/home/static/css/main.7d3044ed.css",
+    "main.js": "/home/static/js/main.1786fdcc.js",
+    "static/js/787.6b28aaaa.chunk.js": "/home/static/js/787.6b28aaaa.chunk.js",
+    "static/media/hex.jpg": "/home/static/media/hex.6f606f701f2708569875.jpg",
+    "static/media/cloud.png": "/home/static/media/cloud.a330a4a9b4b4bc27d981.png",
+    "static/media/python.logo.png": "/home/static/media/python.logo.c0fe41b36c9b8253c2e8.png",
+    "static/media/react-logo.png": "/home/static/media/react-logo.3de4f9504f9f62822573.png",
+    "static/media/docker.logo.png": "/home/static/media/docker.logo.77d969a9d87d2f0d8dec.png",
+    "static/media/redux-logo.png": "/home/static/media/redux-logo.fd4c5e0f1fe42de14537.png",
+    "static/media/black-purple-logo.png": "/home/static/media/black-purple-logo.c10d3eb53ac45e3054af.png",
+    "static/media/AWS.logo.png": "/home/static/media/AWS.logo.f783c51a3cb7c6c3c966.png",
+    "static/media/node.logo.png": "/home/static/media/node.logo.22d4a4fcc45390f4d1c1.png",
+    "static/media/next-logo.png": "/home/static/media/next-logo.425e4ca89117613c1952.png",
+    "static/media/avatar.jpg": "/home/static/media/avatar.5ecd29abe428ad34f647.jpg",
+    "static/media/calm.jpg": "/home/static/media/calm.be245d62bbe56c6b5c70.jpg",
+    "static/media/github.logo.png": "/home/static/media/github.logo.9c2ff307f574cef466a1.png",
+    "index.html": "/home/index.html",
+    "main.7d3044ed.css.map": "/home/static/css/main.7d3044ed.css.map",
+    "main.1786fdcc.js.map": "/home/static/js/main.1786fdcc.js.map",
+    "787.6b28aaaa.chunk.js.map": "/home/static/js/787.6b28aaaa.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.31ac5802.css",
-    "static/js/main.41724873.js"
+    "static/css/main.7d3044ed.css",
+    "static/js/main.1786fdcc.js"
   ]
 }
