@@ -1,0 +1,18 @@
+$small: 300px;
+$medium: 900px;
+
+#develop{
+    background-image: url('../pictures/calm.jpg'), url('../pictures/hex.jpg');
+    background-blend-mode: screen;
+}
+
+.software-dev, body{
+    background-image: url('../pictures/calm.jpg'), url('../pictures/hex.jpg');
+    background-blend-mode: screen;
+    height: 165vh;
+
+    @media screen and (min-width: $small) and (max-width: $medium) {
+        height: 280vh !important;
+}
+
+}

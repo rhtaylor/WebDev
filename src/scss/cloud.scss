@@ -1,0 +1,55 @@
+$small: 300px;
+$medium: 900px;
+@import url('https://fonts.googleapis.com/css2?family=Tilt+Prism');
+
+.cloud{
+    background-image: url('../pictures/cloud.png'), url('../pictures/calm.jpg');
+    background-color: rgb(247, 192, 192);
+    background-blend-mode: difference;
+    background-repeat: no-repeat;
+    background-size: cover;
+    //background-blend-mode: hue;
+    height: 140vh !important;
+    font-family: 'Chivo Mono', monospace !important;
+    color: black;
+    padding-bottom: 0% !important;
+    padding: 4%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    
+    p{  
+        margin-top: 1% !important;
+        margin-bottom: 0% !important;
+        padding-top: 0% !important;
+        padding-bottom: 1% !important;
+        padding: 2%;
+        margin: 1%;
+    } 
+
+    img{
+        align-self: center;
+    }
+
+    @media screen and (min-width: $small) and (max-width: $medium) {
+            height: 250vh !important;
+    }
+
+}
+
+body{
+    font-family: 'Chivo Mono', monospace !important;
+}
+
+.tech{
+    flex-shrink: 1;
+    flex-wrap: wrap;
+    @media screen and (min-width: $small) and (max-width: $medium) {
+        display: flex !important;
+        flex-shrink: 1 !important;
+        flex-wrap: wrap;
+        width: clamp($small, $medium, $medium);
+        background-width: $medium
+
+    }
+}
