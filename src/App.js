@@ -1,11 +1,12 @@
-import Navigation from './components/Navigation.js'
+import Navigation from './components/Navigation.js';
 //import './App.css';
-import './scss/software-dev.scss'
-import { Routes, Route, Link} from 'react-router-dom'
+import './scss/software-dev.scss';
+import { Routes, Route, Link} from 'react-router-dom';
 import Home from './components/Home.js';
 import Resume from './components/Resume.js';
 import Tech from './components/Tech.js'
 import Layout from './components/Layout.js';
+import NoMatch from './components/NoMatch.js';
 
 function App() {
   return (
@@ -21,6 +22,7 @@ function App() {
             <Route path="/home" element={<Home />} />
             <Route path="/resume" element={<Resume />} />
             <Route path="/technologies" element={<Tech />} />
+            <Route path="/*" element={<NoMatch />} />
           </Route>
         </Routes>
       </div>
