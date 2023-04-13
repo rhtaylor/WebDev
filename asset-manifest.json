@@ -1,28 +1,26 @@
 {
   "files": {
-    "main.css": "./static/css/main.0b82ad14.css",
-    "main.js": "./static/js/main.90c18c57.js",
+    "main.css": "./static/css/main.34b21ed5.css",
+    "main.js": "./static/js/main.f916b0f0.js",
     "static/js/787.6b28aaaa.chunk.js": "./static/js/787.6b28aaaa.chunk.js",
     "static/media/hex.jpg": "./static/media/hex.6f606f701f2708569875.jpg",
-    "static/media/cloud.png": "./static/media/cloud.a330a4a9b4b4bc27d981.png",
-    "static/media/python.logo.png": "./static/media/python.logo.c0fe41b36c9b8253c2e8.png",
-    "static/media/react-logo.png": "./static/media/react-logo.3de4f9504f9f62822573.png",
-    "static/media/docker.logo.png": "./static/media/docker.logo.77d969a9d87d2f0d8dec.png",
-    "static/media/redux-logo.png": "./static/media/redux-logo.fd4c5e0f1fe42de14537.png",
-    "static/media/black-purple-logo.png": "./static/media/black-purple-logo.c10d3eb53ac45e3054af.png",
-    "static/media/AWS.logo.png": "./static/media/AWS.logo.f783c51a3cb7c6c3c966.png",
-    "static/media/node.logo.png": "./static/media/node.logo.22d4a4fcc45390f4d1c1.png",
-    "static/media/next-logo.png": "./static/media/next-logo.425e4ca89117613c1952.png",
+    "static/media/cloud.png": "./static/media/cloud.a620480d0a5c9c229911.png",
+    "static/media/python.logo.png": "./static/media/python.logo.74cd29886bbd4d4507bd.png",
+    "static/media/docker.logo.png": "./static/media/docker.logo.dd1cc55fc279e1785756.png",
+    "static/media/react-logo.png": "./static/media/react-logo.1a91c040c4baa5659187.png",
+    "static/media/redux-logo.png": "./static/media/redux-logo.978f6cfb1f873215d06d.png",
+    "static/media/node.logo.png": "./static/media/node.logo.ebb614fa47d6730e7513.png",
     "static/media/avatar.jpg": "./static/media/avatar.5ecd29abe428ad34f647.jpg",
+    "static/media/AWS.logo.png": "./static/media/AWS.logo.c28577c95de2d7caafbd.png",
+    "static/media/black-purple-logo.png": "./static/media/black-purple-logo.64db8936bee94fd128df.png",
     "static/media/calm.jpg": "./static/media/calm.be245d62bbe56c6b5c70.jpg",
-    "static/media/github.logo.png": "./static/media/github.logo.9c2ff307f574cef466a1.png",
     "index.html": "./index.html",
-    "main.0b82ad14.css.map": "./static/css/main.0b82ad14.css.map",
-    "main.90c18c57.js.map": "./static/js/main.90c18c57.js.map",
+    "main.34b21ed5.css.map": "./static/css/main.34b21ed5.css.map",
+    "main.f916b0f0.js.map": "./static/js/main.f916b0f0.js.map",
     "787.6b28aaaa.chunk.js.map": "./static/js/787.6b28aaaa.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.0b82ad14.css",
-    "static/js/main.90c18c57.js"
+    "static/css/main.34b21ed5.css",
+    "static/js/main.f916b0f0.js"
   ]
 }
