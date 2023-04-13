@@ -1,7 +1,7 @@
 {
   "name": "web_dev",
   "version": "0.1.0",
-  "homepage": "https://rhtaylor.github.io/",
+  "homepage": ".",
   "private": false,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
