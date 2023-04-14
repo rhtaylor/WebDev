@@ -56,3 +56,12 @@ body{
 .cloud > p{
   font-weight: bolder;
 }
+
+.dynamic{
+    height: 200px;
+    width: 200px;
+    @media screen and (min-width: $small) and (max-width: $medium){
+        height: 100px !important;
+        width: 100px !important;
+    }
+}
