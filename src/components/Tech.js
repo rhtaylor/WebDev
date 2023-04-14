@@ -17,7 +17,7 @@ const techImages  = [{img: Node, alt: "Node.js"}, {img: Docker, alt: "Docker"},
 const Tech = () =>{
         const makeComponents = ({start, finish}) => {
 
-        const part = (techImages.slice(start, finish).map( (tI, i) =>(<span className="d-flex flex-column"><div className="mx-auto" key={i}><img src={tI.img} alt={tI.alt} height="100px" width="100px" /></div></span>)))
+        const part = (techImages.slice(start, finish).map( (tI, i) =>(<span className="d-flex flex-column"><div className="mx-auto" key={i}><img src={tI.img} alt={tI.alt} height="200px" width="200px" /></div></span>)))
                 return part
             }
 
