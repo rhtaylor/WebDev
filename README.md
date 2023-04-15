@@ -4,4 +4,4 @@
 This site is hosted at https://www.rhtaylor-development.com.
 
 
-note the gp-pages site was abondoned as react router dom v6 is incompatible with it. 
+note the gp-pages site was abandoned as react router dom v6 is incompatible with it. 
