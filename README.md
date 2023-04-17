@@ -1,8 +1,8 @@
 # Website for Web Developer/Cloud Developer/Software Engineer Randy Taylor
 ## #########################################################################
-#  ##                         WebDev                                      ##
-#  ##                         rhtaylor                                    ##
-#  ##                         Randy                                       ##
+#                           WebDev                                      ##
+#                           rhtaylor                                    ##
+#                           Randy                                       ##
 
 This site is hosted at https://www.rhtaylor-development.com.
 
